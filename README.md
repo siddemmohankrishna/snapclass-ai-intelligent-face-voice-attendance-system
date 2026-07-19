@@ -104,13 +104,12 @@ SnapClass-AI/
 ### Home Page
 > https://github.com/siddemmohankrishna/snapclass-ai-intelligent-face-voice-attendance-system/blob/39c8494a3527685e8e748499dd3f4f370311d362/home.png
 ```
-images/home.png
 ```
 
 ### Teacher Dashboard
 
 ```
-images/teacher_dashboard.png
+https://github.com/siddemmohankrishna/snapclass-ai-intelligent-face-voice-attendance-system/blob/2ab7872657d56bf4268b8a67a5b011f29a084965/Teacher%20Dashboard.png
 ```
 
 ### Student Dashboard
