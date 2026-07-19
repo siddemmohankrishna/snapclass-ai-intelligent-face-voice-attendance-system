@@ -204,8 +204,6 @@ The project uses the following Supabase tables:
 **Siddem Mohan Krishna**
 
 🎓 B.Sc Data Science Student  
-🤖 Aspiring AI/ML Engineer  
-📊 Passionate about Artificial Intelligence, Deep Learning, and Data Science
 
 GitHub: https://github.com/siddemmohankrishna
 
