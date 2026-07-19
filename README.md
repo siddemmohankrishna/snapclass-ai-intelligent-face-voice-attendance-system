@@ -117,7 +117,7 @@ https://github.com/siddemmohankrishna/snapclass-ai-intelligent-face-voice-attend
 ### Student Dashboard
 
 ```
-images/student_dashboard.png
+https://github.com/siddemmohankrishna/snapclass-ai-intelligent-face-voice-attendance-system/blob/8c905e112dd601467df9abeca8205ab4cb55683a/Student%20Dashboard.png
 ```
 
 ### Attendance Report
