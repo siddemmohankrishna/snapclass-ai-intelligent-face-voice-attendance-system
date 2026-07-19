@@ -195,9 +195,9 @@ def teacher_tab_manage_subjects():
             st.space()
 
         subject_card(
-            name = sub["name"],
-            code = sub["subject_code"],
-            section = sub["section"],
+            name = sub['name'],
+            code = sub['subject_code'],
+            section = sub['section'],
             stats=stats,
             footer_callback=share_btn
         )
