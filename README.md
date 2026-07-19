@@ -123,7 +123,7 @@ https://github.com/siddemmohankrishna/snapclass-ai-intelligent-face-voice-attend
 ### Attendance Report
 
 ```
-images/attendance_report.png
+https://github.com/siddemmohankrishna/snapclass-ai-intelligent-face-voice-attendance-system/blob/cf8229735f6fd48a673f957cd31cd7e26f3fe914/Final%20report.png
 ```
 
 ---
